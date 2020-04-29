@@ -1,2 +1,8 @@
 # Deep-Learning-based-Edge-Detection
-Edge detection using state-of-the-art deep learning technique
+
+**HED Implementation using OpenCV for Edge Detection**
+
+<strong><center>Output</center></strong>
+
+<center><img src="testdata/comparison/output_flowers.png">Left: Original Image, Right: Edge Detection using
+HED</img></center>
