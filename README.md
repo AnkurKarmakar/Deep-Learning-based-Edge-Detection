@@ -6,3 +6,10 @@
 
 <center><img src="testdata/comparison/output_flowers.png">Left: Original Image, Right: Edge Detection using
 HED</img></center>
+
+Pre-trained model download: **http://vcl.ucsd.edu/hed/hed_pretrained_bsds.caffemodel**
+Libraries required:
+1) opencv
+2) numpy
+3) utils.preprocessing
+4) sys
